@@ -10,7 +10,7 @@ void draw()
   // random Gaussian for x coordinate
   float gaussian = randomGaussian();
   
-  float standardDeviation = 100;
+  float standardDeviation = 200;
   float mean = 0;
   
   float x = standardDeviation * gaussian + mean;
